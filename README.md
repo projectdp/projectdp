@@ -10,7 +10,7 @@ I plan on contributing more to both my GitHub and Open Source projects in 2022. 
 ## Interests 🔥
 <div align="center">
   
-|||
+|🤖|💻|
 | --- | --- |
 | <div align="left"><b>AI / ML:</b></br>&emsp;<img src="https://img.shields.io/badge/-Co--Pilot-111?&logo=github" alt="Co-Pilot"> <img src="https://img.shields.io/badge/-OpenAI-111?&logo=openai" alt="OpenAI"> <img src="https://img.shields.io/badge/-TensorFlow-111?&logo=tensorflow" alt="Tensorflow"></div> | <div align="left"><b>Configuration Management:<b></br>&emsp;<img src="https://img.shields.io/badge/-Ansible-111?&logo=ansible" alt="Ansible"> <img src="https://img.shields.io/badge/-Puppet-111?&logo=Puppet" alt="puppet"> <img src="https://img.shields.io/badge/-Salt-111?&logo=saltproject" alt="saltproject"> |
 | <div align="left"><b>IDE / Editor:<b></br>&emsp;<img src="https://img.shields.io/badge/-Jupyter-111?&logo=jupyter" alt="Jupyter"> <img src="https://img.shields.io/badge/-vim-111?&logo=vim" alt="vim"> <img src="https://img.shields.io/badge/-Neovim-111?&logo=neovim" alt="Neovim"> <img src="https://img.shields.io/badge/-VSCode-111?&logo=visualstudiocode" alt="VSCode"></br>&emsp;<img src="https://img.shields.io/badge/-PyCharm-111?&logo=pycharm" alt="PyCharm"> <img src="https://img.shields.io/badge/-Spyder-111?&logo=spyderide" alt="Spyder"> | <div align="left"><b>Languages:<b></br>&emsp;<img src="https://img.shields.io/badge/-Nim-111?&logo=Nim" alt="Nim"> <img src="https://img.shields.io/badge/-php-111?&logo=php" alt="php"> <img src="https://img.shields.io/badge/-Python-111?&logo=Python" alt="Python"> <img src="https://img.shields.io/badge/-Rust-111?&logo=Rust" alt="Rust"> |
@@ -39,7 +39,32 @@ I plan on contributing more to both my GitHub and Open Source projects in 2022. 
 </div>
 
 ## Acknowledgements
-Big thanks to <a href="https://github.com/RitchieS">@RitchieS</a>, <a href="https://github.com/PurplProto">@PurplProto</a>, and @yodadog for helping me fix up my GitHub.
+Big thanks to <a href="https://github.com/RitchieS">@RitchieS</a>, <a href="https://github.com/PurplProto">@PurplProto</a>, <a href="https://github.com/0xEquinox">@0xEquinox</a>, and @yodadog for helping me fix up my GitHub.
+
+<details><summary>GitHub Profile References...</summary>
+<ol>
+<li><a href="https://github.com/0xEquinox">@0xEquinox</a></li>
+<li><a href="https://github.com/FOrDunn">@FOrDunn</a></li>
+<li><a href="https://github.com/Garoze">@Garoze</a></li>
+<li><a href="https://github.com/GuillaumeFalourd">@GuillaumeFalourd</a></li>
+<li><a href="https://github.com/HuskyHacks">@HuskyHacks</a></li>
+<li><a href="https://github.com/K1B0R">@K1B0R</a></li>
+<li><a href="https://github.com/RitchieS">@RitchieS</a></li>
+<li><a href="https://github.com/brettcannon">@brettcannon</a></li>
+<li><a href="https://github.com/jsifuentes">@jsifuentes</a></li>
+<li><a href="https://github.com/kleiton0x00">@kleiton0x00</a></li>
+<li><a href="https://github.com/mubix">@mubix</a></li>
+<li><a href="https://github.com/purplProto">@purplProto</a></li>
+<li><a href="https://github.com/remonsec">@remonsec</a></li>
+</ol>
+
+<details><summary>Repositories...</summary>
+<ol>
+<li><a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a></li>
+<li><a href="https://github.com/Ileriayo/markdown-badges">markdown-badges</a></li>
+<li><a href="https://github.com/Ashutosh00710/github-readme-activity-graph">github-readme-activity-graph</a></li>
+<li><a href="https://github.com/antonkomarev/github-profile-views-counter">github-profile-views-counter</a></li>
+</ol>
 
 <div align="center">
 🦶
@@ -49,8 +74,9 @@ Big thanks to <a href="https://github.com/RitchieS">@RitchieS</a>, <a href="http
 Profile references:
 https://github.com/RitchieS
 https://github.com/purplProto
+https://github.com/0xEquinox
 https://github.com/HuskyHacks
-https://github.com/kleiton0x00/
+https://github.com/kleiton0x00
 https://github.com/jsifuentes
 https://github.com/remonsec
 https://github.com/brettcannon
