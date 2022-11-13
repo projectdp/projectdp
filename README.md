@@ -8,35 +8,6 @@ I plan on contributing more to both my GitHub and Open Source projects in 2022. 
 <a href="https://stackoverflow.com/users/632887/p%cc%bb%cc%bb%cc%a5r%cc%a5%cc%bb%cc%a5o%cc%bbj%cd%9b%cc%a4ec%cd%94t%cc%9edp?tab=profile"><img src="https://img.shields.io/badge/projectdp-D16f37?style=flat&logo=Stackoverflow&logoColor=white"/></a>
 </p>
 
------BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA512
-
-Hi if you're seeing this signature profile you are likely confirming the identity of the person you know of as "projectdp".
-
-Verify this profile at https://keyoxide.org/sig
-
-proof=https://infosec.exchange/@projectdp
-proof=https://bsd.network/@projectdp
-proof=https://twitter.com/projectdp
-proof=https://github.com/projectdp
------BEGIN PGP SIGNATURE-----
-
-iQJIBAEBCgAyFiEE/qD2XjtfmABbjtXuv6kYuXDe52gFAmNwigUUHHByb2plY3Rk
-cEBnbWFpbC5jb20ACgkQv6kYuXDe52hx5A//R5FD3cvu4kbAmp163VYYGPuHOb98
-Kfsv+KDvdQfsM6IJF5LFOKQCn1viXbLXti9EnOcLqXrlAfNV3ln6Bdsdn7DArZef
-BkD5/cvxJ4WljaCRomjbnTNB6slhOGnVyO1L7QYR2kS9QCosdQW+GD308pXsZ28t
-Vks9Qag2AC6GXZ6TMDnCYPKzHpy0TzPVHetCv5eZ9awx3zJzUgigOC8SqeyrcZ/v
-b7h3DyIkAxpKJiyCWmVLZf7ftf/ypYJyrhcYaqKErEi4wQgeAuasiei8tOCDb/Ce
-ckEOwOVqtLvH8KRygB+bhbmkAGqag1HnmA145+KvHWYNvrFuG0jzu2x2bfNHU9dg
-3WuUP9NV7AhHFjhE5aRztVxMxJ987DI7HP7uuHGWyfssn2gM4TfbZOteapGkqfQN
-UahBAKoILGNEna9cXpthrdvse70cwnfW3hNNZ7HOKmE7HwyQYO4lYHcx0u89IcLM
-7UhUgLtN4YHySrH+JbbuQrgH7nvdYGdjewe0w/CzUwHC8QyqD3N+H2SukKK+jLjx
-MV2Jtw8aX7qu48xpfMz59WwMJyOFvZo3SngYoLJWRz3YLT0A61FI4C/ciXg7myFM
-sgYEKjZImrZNlhuZhYU+iQf5JlCP/NzpmcHYMbqzHPtSXRl+6Qs7AiE3M+2+0K3A
-vE4eOyZd93I2iOc=
-=qKzQ
------END PGP SIGNATURE-----
-
 ## Interests 🔥
 <div align="center">
   
