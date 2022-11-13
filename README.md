@@ -73,6 +73,8 @@ Big thanks to <a href="https://github.com/RitchieS">@RitchieS</a>, <a href="http
 🦶
 </div>
 
+[Verifying my cryptographic key: openpgp4fpr:FEA0F65E3B5F98005B8ED5EEBFA918B970DEE768]
+
 <!--
 Profile references:
 https://github.com/RitchieS
