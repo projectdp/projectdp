@@ -2,9 +2,10 @@
 
 I plan on contributing more to both my GitHub and Open Source projects in 2022. Check out my blog (🚧 Under Construction 🚧) at: [https://projectdp.github.io](https://projectdp.github.io)! If you're interested in keeping in touch follow me on Twitter and send a message. Thank you for stopping by! 
 <p align="center">
-<a rel="me" href="https://infosec.exchange/@projectdp">Mastodon: <img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/000002038?domain=https%3A%2F%2Finfosec.exchange"></a></br>
-<a href="https://twitter.com/projectdp">Twitter: <img src="https://img.shields.io/badge/-@projectdp-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a></br>
-<a href="https://stackoverflow.com/users/632887/p%cc%bb%cc%bb%cc%a5r%cc%a5%cc%bb%cc%a5o%cc%bbj%cd%9b%cc%a4ec%cd%94t%cc%9edp?tab=profile">StackOverflow: <img src="https://img.shields.io/badge/projectdp-D16f37?style=flat&logo=Stackoverflow&logoColor=white"/></a>
+<a rel="me"  style="display: none" href="https://infosec.exchange/@projectdp">Mastodon</a>
+<a rel="me" href="https://infosec.exchange/@projectdp"><img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/000002038?domain=https%3A%2F%2Finfosec.exchange"></a></br>
+<a href="https://twitter.com/projectdp"><img src="https://img.shields.io/badge/-@projectdp-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a></br>
+<a href="https://stackoverflow.com/users/632887/p%cc%bb%cc%bb%cc%a5r%cc%a5%cc%bb%cc%a5o%cc%bbj%cd%9b%cc%a4ec%cd%94t%cc%9edp?tab=profile"><img src="https://img.shields.io/badge/projectdp-D16f37?style=flat&logo=Stackoverflow&logoColor=white"/></a>
 </p>
 
 ## Interests 🔥
