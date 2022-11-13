@@ -1,9 +1,8 @@
 ## Welcome to my GitHub, I'm p̻̻̥r̥̻̥o̻j̤͛ec͔t̞dp 👋
 
 I plan on contributing more to both my GitHub and Open Source projects in 2022. Check out my blog (🚧 Under Construction 🚧) at: [https://projectdp.github.io](https://projectdp.github.io)! If you're interested in keeping in touch follow me on Twitter and send a message. Thank you for stopping by! 
-
 <p align="center">
-<a href="https://infosec.exchange/@projectdp"><img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/000002038?domain=https%3A%2F%2Finfosec.exchange"></a>
+<a rel="me" href="https://infosec.exchange/@projectdp"><img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/000002038?domain=https%3A%2F%2Finfosec.exchange"></a>
 <a href="https://twitter.com/projectdp"><img src="https://img.shields.io/badge/-@projectdp-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
 <a href="https://stackoverflow.com/users/632887/p%cc%bb%cc%bb%cc%a5r%cc%a5%cc%bb%cc%a5o%cc%bbj%cd%9b%cc%a4ec%cd%94t%cc%9edp?tab=profile"><img src="https://img.shields.io/badge/projectdp-D16f37?style=flat&logo=Stackoverflow&logoColor=white"/></a>
 </p>
