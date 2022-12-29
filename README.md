@@ -29,11 +29,7 @@ I plan on contributing more to both my GitHub and Open Source projects in 2023.
   </br>
 </a>
 </br>
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=projectdp&theme=github&bg_color=20232a&hide_border=true" width="80%"/>
-</a></br>
 
-</br>
 <a href="https://github.com/projectdp">
     <img src="https://komarev.com/ghpvc/?username=projectdp&color=blue"/>
 </a>
