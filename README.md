@@ -36,7 +36,7 @@ I plan on contributing more to both my GitHub and Open Source projects in 2023.
 </div>
 
 ## Acknowledgements
-Big thanks to <a href="https://github.com/RitchieS">@RitchieS</a>, <a href="https://github.com/PurplProto">@PurplProto</a>, <a href="https://github.com/0xEquinox">@0xEquinox</a>, and @yodadog for helping me fix up my GitHub.
+Big thanks to <a href="https://github.com/RitchieS">@RitchieS</a>, <a href="https://github.com/PurplProto">@PurplProto</a>, and <a href="https://github.com/0xEquinox">@0xEquinox</a> for helping me fix up my GitHub.
 
 <details><summary>GitHub Profile References...</summary>
 <ol>
