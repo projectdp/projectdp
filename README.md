@@ -1,6 +1,5 @@
 ## Welcome to my GitHub, I'm p̻̻̥r̥̻̥o̻j̤͛ec͔t̞dp 👋
-
-I plan on contributing more to both my GitHub and Open Source projects in 2023.
+Open Source advocate.
 
 <p align="center">
 <a rel="me" href="https://infosec.exchange/@projectdp"><img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/000002038?domain=https%3A%2F%2Finfosec.exchange"></a></br>
